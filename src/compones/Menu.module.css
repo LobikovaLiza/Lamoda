@@ -1,0 +1,52 @@
+.menu {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 100%;
+  padding: 10px 0px;
+}
+.sort {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  width: 20%;
+  min-width: 75px;
+  min-height: 40px;
+  height: auto;
+  padding: 5px 10px;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  border: 2px solid #044973;
+  border-radius: 2px;
+  background: #87d1e4;
+  color: #044973;
+}
+.sortDone {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  width: 20%;
+  min-width: 75px;
+  min-height: 40px;
+  height: auto;
+  padding: 5px 10px;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  border: 2px solid #044973;
+  border-radius: 2px;
+  color: #044973;
+  background: #3b9ad4;
+}
+.radio {
+  display: none;
+}
+.sort_inout {
+  margin-top: 10px;
+  width: 60%;
+  min-width: 87px;
+  min-height: 40px;
+  height: auto;
+}

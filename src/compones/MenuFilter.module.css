@@ -1,0 +1,10 @@
+.filter {
+  width: 25%;
+  min-width: 85px;
+  font-size: 1.12em;
+}
+.heder {
+  border: 2px solid #044973;
+  background: #87d1e4;
+  font-size: 1.15em;
+}

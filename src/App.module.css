@@ -1,0 +1,24 @@
+.conteiner {
+  margin-left: 10%;
+  background-color: #fff;
+  min-height: 500px;
+  width: 70%;
+  display: block;
+  padding: 30px;
+  border-radius: 20px;
+  color: #044973;
+}
+.heder {
+  font-size: 30px;
+  padding: 10px 0px;
+}
+.filter_and_catalog {
+  display: flex;
+}
+.products {
+  display: flex;
+  flex-wrap: wrap;
+  width: 75%;
+  justify-content: space-around;
+  padding: 0px 10px;
+}
